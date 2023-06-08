@@ -22,7 +22,7 @@ function App() {
 
       <header class="header">
         <a href="#" class="logo">
-          <img src="../public/home-img.jpeg" alt="" />
+          <img src="images/logo.png" alt="" />
         </a>
 
         <nav class="navbar">
@@ -49,7 +49,7 @@ function App() {
         <div class="cart-items-container">
           <div class="cart-item">
             <span class="fas fa-times"></span>
-            <img src="../public/cart-item-1.png" alt="" />
+            <img src="images/cart-item-1.png" alt="" />
             <div class="content">
               <h3>fresh beer</h3>
               <div class="price">₹1599/-</div>
@@ -57,7 +57,7 @@ function App() {
           </div>
           <div class="cart-item">
             <span class="fas fa-times"></span>
-            <img src="../public/cart-item-2.png" alt="" />
+            <img src="images/cart-item-2.png" alt="" />
             <div class="content">
               <h3>budweiser hops</h3>
               <div class="price">₹1599/-</div>
@@ -65,7 +65,7 @@ function App() {
           </div>
           <div class="cart-item">
             <span class="fas fa-times"></span>
-            <img src="../public/cart-item-3.png" alt="" />
+            <img src="images/cart-item-3.png" alt="" />
             <div class="content">
               <h3>woodcreek</h3>
               <div class="price">₹1499/-</div>
@@ -73,7 +73,7 @@ function App() {
           </div>
           <div class="cart-item">
             <span class="fas fa-times"></span>
-            <img src="../public/cart-item-4.png" alt="" />
+            <img src="images/cart-item-4.png" alt="" />
             <div class="content">
               <h3>pepsi</h3>
               <div class="price">₹199/-</div>
@@ -114,7 +114,7 @@ function App() {
 
         <div class="row">
           <div class="image">
-            <img src="../public/about-img.jpeg" alt="" />
+            <img src="images/about-img.jpeg" alt="" />
           </div>
 
           <div class="content">
@@ -149,7 +149,7 @@ function App() {
 
         <div class="box-container">
           <div class="box">
-            <img src="../public/menu-1.png" alt="" />
+            <img src="images/menu-1.png" alt="" />
             <h3>bacon salad!</h3>
             <div class="price">
               ₹259/- <span>399</span>
@@ -160,7 +160,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/menu-2.png" alt="" />
+            <img src="images/menu-2.png" alt="" />
             <h3>pork with ham and vegies!</h3>
             <div class="price">
               ₹579/- <span>639</span>
@@ -171,7 +171,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/menu-3.png" alt="" />
+            <img src="images/menu-3.png" alt="" />
             <h3>avocardo salad with olive!</h3>
             <div class="price">
               ₹149/- <span>219</span>
@@ -182,7 +182,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/menu-4.png" alt="" />
+            <img src="images/menu-4.png" alt="" />
             <h3>chicken wraps</h3>
             <div class="price">
               ₹259/- <span>359</span>
@@ -193,7 +193,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/menu-5.png" alt="" />
+            <img src="images/menu-5.png" alt="" />
             <h3>burger burst with chill coke</h3>
             <div class="price">
               ₹579/- <span>659</span>
@@ -204,7 +204,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/menu-6.png" alt="" />
+            <img src="images/menu-6.png" alt="" />
             <h3>royal biriyani</h3>
             <div class="price">
               ₹799/- <span>899</span>
@@ -214,7 +214,7 @@ function App() {
             </a>
           </div>
           <div class="box">
-            <img src="../public/menu-7.png" alt="" />
+            <img src="images/menu-7.png" alt="" />
             <h3>chicken afgani</h3>
             <div class="price">
               ₹479/- <span>559</span>
@@ -225,7 +225,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/menu-8.png" alt="" />
+            <img src="images/menu-8.png" alt="" />
             <h3>chicken brest</h3>
             <div class="price">
               ₹799/- <span>899</span>
@@ -253,7 +253,7 @@ function App() {
               <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-              <img src="../public/product-1.png" alt="" />
+              <img src="images/product-1.png" alt="" />
             </div>
             <div class="content">
               <h3>Bundaberg Ginger Beer</h3>
@@ -277,7 +277,7 @@ function App() {
               <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-              <img src="../public/product-2.png" alt="" />
+              <img src="images/product-2.png" alt="" />
             </div>
             <div class="content">
               <h3>Schweppers</h3>
@@ -301,7 +301,7 @@ function App() {
               <a href="#" class="fas fa-eye"></a>
             </div>
             <div class="image">
-              <img src="../public/product-3.png" alt="" />
+              <img src="images/product-3.png" alt="" />
             </div>
             <div class="content">
               <h3>Crabbies</h3>
@@ -330,7 +330,7 @@ function App() {
 
         <div class="box-container">
           <div class="box">
-            <img src="../public/quote-img.png" alt="" class="quote" />
+            <img src="images/quote-img.png" alt="" class="quote" />
             <p>
               Hey! this is dwayne Johnson,The type of food is Indian. It has
               only one waitress wich makes the service too slow. There are tow
@@ -339,7 +339,7 @@ function App() {
               with your order.
               https://www.tripadvisor.in/ShowUserReviews-g294197-d1176237-r428736693-Foreign_Restaurant-Seoul.html#{" "}
             </p>
-            <img src="../public/pic-1.png" class="user" alt="" />
+            <img src="images/pic-1.png" class="user" alt="" />
             <h3>Dwayne Johnson</h3>
             <div class="stars">
               <i class="fas fa-star"></i>
@@ -351,7 +351,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/quote-img.png" alt="" class="quote" />
+            <img src="images/quote-img.png" alt="" class="quote" />
             <p>
               Visited as a guest in the Echo restaurant for lunch just today. We
               were entertaining friends from California, and enjoyed our ocean
@@ -362,7 +362,7 @@ function App() {
               wanted time to visit and did not rush us. She and other staff
               members made certain that we had everything we needed. Kudos!
             </p>
-            <img src="../public/pic-2.png" class="user" alt="" />
+            <img src="images/pic-2.png" class="user" alt="" />
             <h3>Elon Musk</h3>
             <div class="stars">
               <i class="fas fa-star"></i>
@@ -374,7 +374,7 @@ function App() {
           </div>
 
           <div class="box">
-            <img src="../public/quote-img.png" alt="" class="quote" />
+            <img src="images/quote-img.png" alt="" class="quote" />
             <p>
               I had lunch with some of my colleagues at Echo on Day 1. I had the
               wedge salad - it was delicious. On Night 2, I enjoyed a drink at
@@ -383,7 +383,7 @@ function App() {
               bar a few times and it was delicious. The bar area and lobby were
               nice and open, good place to relax and meet friends.
             </p>
-            <img src="../public/pic-3.png" class="user" alt="" />
+            <img src="images/pic-3.png" class="user" alt="" />
             <h3>Jeff Bezoz</h3>
             <div class="stars">
               <i class="fas fa-star"></i>
@@ -439,7 +439,7 @@ function App() {
         <div class="box-container">
           <div class="box">
             <div class="image">
-              <img src="../public/blog-1.jpeg" alt="" />
+              <img src="images/blog-1.jpeg" alt="" />
             </div>
             <div class="content">
               <a href="#" class="title">
@@ -457,7 +457,7 @@ function App() {
 
           <div class="box">
             <div class="image">
-              <img src="../public/blog-2.jpeg" alt="" />
+              <img src="images/blog-2.jpeg" alt="" />
             </div>
             <div class="content">
               <a href="#" class="title">
@@ -476,7 +476,7 @@ function App() {
 
           <div class="box">
             <div class="image">
-              <img src="../public/blog-3.jpeg" alt="" />
+              <img src="images/blog-3.jpeg" alt="" />
             </div>
             <div class="content">
               <a href="#" class="title">
@@ -519,7 +519,7 @@ function App() {
         </div>
 
         <div class="credit">
-          created by <span>kvofficialx</span> | © all rights reserved ®
+          created by <span>KartikeyStack</span> | © all rights reserved ®
         </div>
       </section>
     </div>
